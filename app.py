@@ -10,5 +10,12 @@ st.info("This is end-to-end Machine Learning APP")
 with st.expender("Data")
 pass
 
-with st.expender("Data visualization")
-    Pass
+with st.expender("Data Visualization")
+pass
+with st.expender("Input data")
+
+with st.expender("Data Preperation")
+pass
+
+with st.sidebar:
+pass
